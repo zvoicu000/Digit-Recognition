@@ -29,7 +29,7 @@ Ensure you have the following installed:
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/zvoicu000/Digit-Recognition.git
-    cd digit-recognition-app
+    cd Digit-Recognition
     ```
 
 2. **Create a virtual environment (optional but recommended):**
